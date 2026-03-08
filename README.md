@@ -1,4 +1,4 @@
-# ☕ OOP Java Lab - Java Basics: (SE Semester 3).
+# ☕ OOP Java Lab - Java Basics: (SE Semester 3)
 
 > *When I thought I knew Java, OOP said "hold my coffee"*
 
